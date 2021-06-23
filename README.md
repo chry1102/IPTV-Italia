@@ -4,6 +4,12 @@ Questa repository contiene tutti i link ai principali canali TV e Radio nazional
 
 This repository contains all the links to the main national Italian TV and Radio channels in two m3u files to be used with any program that supports opening playlist files. The links are all extrapolated from the official streams, so they should only be legally watchable within Italy. I intend to update broken links or add new channels if I see comments asking for it and it is within my capabilities to do so legally.
 
+# Differenze rispetto alla versione originale di [**Tundrak**](https://github.com/Tundrak/IPTV-Italia/)
+Questo fork contiene tutte le funzioni e tutti i canali TV della lista IPTV del creatore originale, le uniche differenze sono la presenza di tutte le icone dei canali (aggiornate man mano che i canali vengono aggiunti), e la numerazione dei canali corretta secondo l'LCN (anch'esso aggiornato man mano che vengono aggiunti i canali).
+
+# Come aggiungere l'**EPG** (guida elettronica dei canali)
+L'**EPG** è la guida elettronica dei canali, ovvero la guida che elenca tutti i programmi di un certo canale, quello attuale, completo di titolo e descrizione, e anche quelli successivi, anch'essi completi di titolo e descrizione. L'aggiunta della guida dipende dal programma in uso per la visione dei canali. Se si sa già il procedimento, il link per l'aggiunta della guida è [**questo**](http://epg-guide.com/dttsat.xz), se invece si riscontrano difficoltà nell'aggiunta della guida EPG, contattatemi.
+
 # Come usarla
 Apri [**questo link**](https://github.com/Tundrak/IPTV-Italia/releases) e scarica la versione più recente delle playlist. Poi aprile con il tuo Media Player preferito (ad esempio PotPlayer o MyIPTV Player).  
 **Alternativo**: copia gli indirizzi nella tabella sotto e incollali nella finestra "Apri flusso di rete" o "Apri URL" del tuo player per avere sempre le playlist più aggiornate senza dover mai scaricare nuovi file.
